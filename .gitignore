@@ -9,3 +9,6 @@ Thumbs.db
 #Decompilation artifacts
 *.log
 *.cache
+#no-hats-addon folders
+nhcustom2
+nhm_factory
