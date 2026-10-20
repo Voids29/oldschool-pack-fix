@@ -17,11 +17,11 @@ $bodygroup "sentry1_range_mini"
 	studio "sentry_range_mini.smd"
 }
 
-$shadowlod
+$lod 20
 {
 	replacemodel "sentry_blueprint.smd" "sentry_blueprint.smd"
-	replacemodel "sentry_range.smd" "sentry_range_lod1.smd"
-	replacemodel "sentry_range_mini.smd" "sentry_range_mini_lod1.smd"
+	replacemodel "sentry_range.smd" "nodraw.smd"
+	replacemodel "sentry_range_mini.smd" "nodraw.smd"
 	nofacial
 }
 
@@ -32,6 +32,7 @@ $contents "solid"
 $illumposition 0.502 0 0
 
 $cdmaterials "console\models\buildables\sentry\"
+$cdmaterials "console\misc\"
 
 $texturegroup "skinfamilies"
 {
