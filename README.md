@@ -1,5 +1,5 @@
-# No-Hats Addon for Oldschool Pack Fix 2025
-Replaces unmodeled cosmetics with default cosmetics matching Oldschool Pack Fix 2025 player models.
+# No-Hats Addon for Oldschool Pack Fix
+Replaces unmodeled cosmetics with default cosmetics matching Oldschool Pack Fix player models.
 
 ## Requirements
  - [NHSchema](https://git.pevhs.ch/nhschema.git)
@@ -7,7 +7,7 @@ Replaces unmodeled cosmetics with default cosmetics matching Oldschool Pack Fix 
 
 ## Credits
 - Based on no-hats-bgum by Fedora31 [Repository](https://pevhs.ch/tf2/nhbgum/), [GameBanana page](https://gamebanana.com/mods/200086)
-- Adapted for [Oldschool Pack Fix 2025](https://gamebanana.com/mods/420516) by Voids29
+- Adapted for [Oldschool Pack Fix](https://gamebanana.com/mods/420516) by Voids29
 
 ## Contact Inforation
 If https://pevhs.ch links are dead, contact Fedora31 at:
